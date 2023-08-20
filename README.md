@@ -1,1 +1,1 @@
-# typescript_stater
+# typescript_starter
